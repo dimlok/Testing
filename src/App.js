@@ -7,7 +7,7 @@ export default function App() {
     <BrowserRouter>
       <Navigation />
       <Content />
-      <div></div>
+      <div>Kira</div>
     </BrowserRouter>
   );
 }
