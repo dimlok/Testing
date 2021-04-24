@@ -1,7 +1,7 @@
 export const router = {
   Index: "/",
   Home: "/home",
-  Aboud: "/aboud",
+  About: "/about",
   Contact: "/contact",
   Login: "/login"
 };

@@ -10,7 +10,7 @@ export default function Navigation() {
       <NavItem to={router.Home} marked>
         Home
       </NavItem>
-      <NavItem to={router.Aboud}>Aboud</NavItem>
+      <NavItem to={router.About}>About</NavItem>
       <NavItem to={router.Contact}>Contact</NavItem>
     </NavContainer>
   );
